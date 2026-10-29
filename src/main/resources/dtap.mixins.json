@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "dev.dtap.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": ["NetHandlerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
